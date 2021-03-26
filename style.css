@@ -1,1 +1,40 @@
-
+.header{
+  color:white;
+  background-color: #2D5F7C;
+}
+.title{
+  font-size: 50px;
+  font-family: times;
+}
+.noun{
+  color: #2D5F7C;
+  font-size: 25px;
+}
+.pronouciation{
+  color:  #2D5F7C;
+  font-style: italic;
+}
+.definition{
+  font-weight: bold;
+}
+.sentence{
+  font-weight: bold;
+  color: #2D5F7C;
+}
+.footnote{
+ font-style: italic;
+}
+.disclaimer{
+  font-size: 12px;
+}
+.firstuse{
+  font-weight: bold;
+}
+.cite{
+  font-weight: bold;
+}
+.footer{
+  color: white;
+  font-size: 12px;
+  background-color: #2D5F7C;
+}
